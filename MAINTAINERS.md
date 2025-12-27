@@ -11,7 +11,7 @@ All other Hyperledger AnonCreds Project repository MAINTAINERS.md files point to
 Maintainers for this repository are listed in the [Access Control YAML file].
 Search in the file for this repository.
 
-[Access Control YAML file]: https://github.com/hyperledger/governance/blob/main/access-control.yaml
+[Access Control YAML file]: https://github.com/anoncreds/governance/blob/main/config.yaml
 
 ## The Duties of a Hyperledger AnonCreds Maintainers
 
